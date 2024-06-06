@@ -1,0 +1,22 @@
+Git commands -
+
+"git init"
+Command: git init [repository name]
+This command is used to start a new repository.
+
+"git add"
+Command: git add [File]  
+This command adds a file to staging area.
+
+"git commit"
+Command: git commit -m “[ Commit message]”  
+This command records or snapshots the file permanently in the version history.
+
+"git config"
+Command for username: git config –global user.name “[name]”  
+Command for email: git config –global user.email “[email address]”  
+These command sets the author's name and email address.
+
+"git status"
+Command: git status  
+This command lists all the files  committed.
