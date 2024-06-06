@@ -1,0 +1,11 @@
+Objects and Classes in Java-
+
+Classes:A class is a blueprint or template that defines the structure and behavior of objects. It is a user-defined prototype that describes what a certain type of object will look like. 
+In Java a class contains:
+-Methods
+-Constructors
+-Interface
+-Field
+
+Object: An object is an instance of a class that represents a real-world entity.It can be physical and logical. For eg. in logical - Banking System
+For eg. In our real life - Chair , Table, Car, Bike, Stick etc.
