@@ -12,7 +12,7 @@ class Bmw extends polo{
         System.out.println("brake is applied");
     }
 }
-public class AbstractClass {
+public class Lecture11{
 
     public static void main(String[] args) {
         Bmw a1=new Bmw();
